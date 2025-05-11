@@ -121,3 +121,5 @@ To make the video accessible in a web browser, you can serve it over HTTP.
 3. Use your public IP address (e.g., `http://<your-public-ip>:8080/`) to access the stream from anywhere.
 
 ---
+
+if you want to now how to setup the controls yust go to this link:https://github.com/aloy5555/how-to-setup-controls
